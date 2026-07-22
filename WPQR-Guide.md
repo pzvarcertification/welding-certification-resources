@@ -38,4 +38,4 @@ https://www.pzvar.in/blog/
 
 ### Service Information
 
-https://www.pzvar.in/wpqr-wps-pqr/
+https://pzvar.in/wps-wpqr/
