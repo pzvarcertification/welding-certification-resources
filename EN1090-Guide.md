@@ -11,7 +11,6 @@ Key Requirements:
 - Qualified Welding Procedures
 
 Further Reading:
-https://www.pzvar.in/blog/en-1090-certification-requirements/
-
+https://pzvar.in/blog/
 Service Information:
-https://www.pzvar.in/en-1090-certification/
+https://pzvar.in/en-1090/
