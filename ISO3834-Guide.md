@@ -29,9 +29,8 @@ ISO 3834 is commonly applied in:
 * Power plant construction
 
 ### Further Reading
-
-https://www.pzvar.in/blog/
+https://pzvar.in/blog/
 
 ### Service Information
+https://pzvar.in/en-iso-3834/
 
-https://www.pzvar.in/iso-3834-certification/
