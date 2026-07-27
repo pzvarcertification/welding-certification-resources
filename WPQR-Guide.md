@@ -32,6 +32,9 @@ WPQR qualification is commonly required for:
 
 WPQR requirements are frequently associated with standards such as EN 1090, ISO 15614, ISO 3834, ASME Section IX, and other international welding codes.
 
+### Know More About Us
+
+https://pzvar.in/
 ### Further Reading
 
 https://www.pzvar.in/blog/
