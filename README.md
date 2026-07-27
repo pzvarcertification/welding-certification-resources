@@ -19,10 +19,10 @@ This repository provides technical information and industry resources related to
 https://www.pzvar.in
 
 ### Technical Services
-https://www.pzvar.in/services/
+https://pzvar.in/we-certify/
 
 ### Technical Blog
-https://www.pzvar.in/blog/
+https://pzvar.in/blog/
 
 ## About PZVAR
 
