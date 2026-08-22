@@ -14,7 +14,17 @@ This repository provides technical information and industry resources related to
 - Manufacturing Quality Assurance
 
 ## Useful Resources
+## PED 2014/68/EU
 
+The Pressure Equipment Directive (PED) 2014/68/EU establishes requirements for applicable pressure equipment and assemblies placed on the European market.
+
+This resource covers PED scope, equipment classification, conformity assessment, CE marking and related welding requirements.
+
+[Read the PED 2014/68/EU Certification Guide](PED-2014-68-EU-Guide.md)
+
+For certification information:
+
+[PED 2014/68/EU Certification – PZVAR](https://pzvar.in/we-certify/ped-2014-68-eu/)
 ### Official Website
 https://www.pzvar.in
 
